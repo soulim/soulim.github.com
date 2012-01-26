@@ -26,20 +26,15 @@
       </div>
     </div>
     <div class="row content">
-      <div class="span4">
-        {{ page.thumb }}
-        &nbsp;
-      </div>
-      <div class="span12">
-        {{ content }}
-      </div>
+      <div class="span4">{% if page.thumb %}<a href="{{ page.thumb_url }}"><img src="/assets/images/{{ page.thumb }}" class="thumbnail" /></a>{% endif %}&nbsp;</div>
+      <div class="span12">{{ content }}</div>
     </div>
     <footer class="row">
       <div class="span4">
         <p>&copy;&nbsp;2012, Alex Soulim</p>
       </div>
       <div class="span6">
-        <p>Технический директор R&D отдела сервиса <a href="http://heiaheia.com">HeiaHeia.com</a></p>
+        <p>Технический директор R&D отдела <a href="http://heiaheia.com">HeiaHeia.com</a></p>
       </div>
       <div class="span6">
         <p>Автор социального блога разработчиков <a href="http://rubyflow.ru">RubyFlow.ru</a> и сайта с вакансиями <a href="http://rubyjobs.ru">RubyJobs.ru</a></p>
