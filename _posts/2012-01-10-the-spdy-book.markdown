@@ -18,8 +18,8 @@ The SPDY Book начинается с рассмотрения основных 
 
 - использование одного постоянного TCP-соединения,
 - Server Push,
-- сжатие данных с помощью zlib,
-- SSL, как обязательное условие,
+- сжатие заголовков с помощью zlib,
+- обязательное использование SSL,
 - обратная совместимость с HTTP/1.1.
 
 The SPDY Book можно использовать как справочник по протоколу. Она подробно описывает потоки данных и их структуру (вплоть до битов).
@@ -28,9 +28,11 @@ The SPDY Book можно использовать как справочник п
 
 Поскольку SPDY пока не является стандартизованным протоколом, то многое может быть изменено и улучшено. Но если вы работаете с сервисами Google с помощью их Chrome, то уже сейчас пользуетесь протоколом SPDY.
 
-### Ссылки
+### Ссылки по теме
 
 - Книга [The SPDY Book: Making Websites Fly](http://pragprog.com/book/csspdy/the-spdy-book)
 - Шоу [Hypercritical](http://5by5.tv/hypercritical). Еженедельные беседы о событях из мира Apple. Ведущие - Дэн Бенжамин (Dan Benjamin) и Джон Сиракьюса (John Siracusa)
 - [SPDY Whitepaper](http://www.chromium.org/spdy/spdy-whitepaper)
+- [Google Tech Talk: SPDY Essentials](http://www.youtube.com/watch?v=TNBkxA313kk)
 
+Жду комментарии по электронной почте <soulim@gmail.com>, а также в Twitter [@soulim](http://twitter.com/soulim)
