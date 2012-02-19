@@ -48,7 +48,3 @@ thumb_url:
 Благодарю компанию [H2 Russia](https://twitter.com/h2russia/) за организацию поездки.
 
 Отдельное и огромное спасибо всем докладчикам!
-
----
-
-Жду комментарии по электронной почте <soulim@gmail.com>, а также в Twitter [@soulim](http://twitter.com/soulim)

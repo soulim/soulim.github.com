@@ -12,7 +12,7 @@ published: true
 
 Но что если добавление элемента `<div class="field_with_errors">` только мешает? 
 
-Все можно исправить переопределив метод вывода полей с ошибкой `ActionView::Base.field_error_proc`.
+Все можно исправить, переопределив метод вывода полей с ошибкой `ActionView::Base.field_error_proc`.
 
 Рассмотрим пример, в котором поле с ошибками выводится без всякой дополнительной обертки.
 
@@ -29,4 +29,3 @@ published: true
 Ссылки по теме:
 
 - [Rails Guides: Customizing the Error Messages HTML](http://guides.rubyonrails.org/active_record_validations_callbacks.html#customizing-error-messages-css)
-- 

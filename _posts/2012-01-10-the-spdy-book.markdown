@@ -34,5 +34,3 @@ The SPDY Book можно использовать как справочник п
 - Шоу [Hypercritical](http://5by5.tv/hypercritical). Еженедельные беседы о событях из мира Apple. Ведущие - Дэн Бенжамин (Dan Benjamin) и Джон Сиракьюса (John Siracusa)
 - [SPDY Whitepaper](http://www.chromium.org/spdy/spdy-whitepaper)
 - [Google Tech Talk: SPDY Essentials](http://www.youtube.com/watch?v=TNBkxA313kk)
-
-Жду комментарии по электронной почте <soulim@gmail.com>, а также в Twitter [@soulim](http://twitter.com/soulim)
