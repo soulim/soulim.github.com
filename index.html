@@ -1,12 +1,39 @@
----
-layout: default
-title: "Блог"
----
-<section class="articles">
-{% for post in site.posts %}
-  <article>
-    <h1><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%d.%m.%y" }}</small></h1>
-  </article>
-  <hr />
-{% endfor %}
-</section>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Alex Soulim by soulim</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Alex Soulim</h1>
+        <p>Ruby developer, open source contributor, former CTO of R&amp;D department HeiaHeia.com</p>
+
+
+        <p class="view"><a href="https://github.com/soulim">View My GitHub Profile</a></p>
+
+      </header>
+      <section>
+        <h1>About</h1>
+
+<p>I am an author and curator of RubyFlow.ru and RubyJobs.ru. The first one is a community blog dedicated to Ruby language. RubyJobs.ru is a job board with Ruby/Rails related vacancies. Both projects are open sourced and could be found on GitHub.</p>
+
+<p>Contacts: <a href="http://twitter.com/soulim">@soulim</a> · <a href="mailto:alex@soulim.com">alex@soulim.com</a></p>
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
