@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/soulim
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sul.im
+  * I am soulim (https://keybase.io/soulim) on keybase.
+  * I have a public key ASCMjtEg7xLP0dUeddWf3TceR7lqxvB98NJe5EC0eGhgOgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208c8ed120ef12cfd1d51e75d59fdd371e47b96ac6f07df0d25ee440b47868603a0a",
+      "host": "keybase.io",
+      "kid": "01208c8ed120ef12cfd1d51e75d59fdd371e47b96ac6f07df0d25ee440b47868603a0a",
+      "uid": "75692ad433c0ca63359f612f0f4a9719",
+      "username": "soulim"
+    },
+    "merkle_root": {
+      "ctime": 1507891902,
+      "hash": "51212dd5c49f37355311d00ae9949f37d1e8ae0189562bdcd6e98b429a340cc998a5352041cdab89e271da768e003331688794e62ed3312fb8f4c7e457f15539",
+      "hash_meta": "abdee1edaae109af5d71123595b154646ab3bb09d09fd0353fb353ab6af32625",
+      "seqno": 1571831
+    },
+    "service": {
+      "hostname": "sul.im",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507891923,
+  "expire_in": 504576000,
+  "prev": "10176f137b037522cfbcbfe458275b357815483de4d4939804d71c13e697eda9",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjI7RIO8Sz9HVHnXVn903Hke5asbwffDSXuRAtHhoYDoKp3BheWxvYWTFAzt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGM4ZWQxMjBlZjEyY2ZkMWQ1MWU3NWQ1OWZkZDM3MWU0N2I5NmFjNmYwN2RmMGQyNWVlNDQwYjQ3ODY4NjAzYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGM4ZWQxMjBlZjEyY2ZkMWQ1MWU3NWQ1OWZkZDM3MWU0N2I5NmFjNmYwN2RmMGQyNWVlNDQwYjQ3ODY4NjAzYTBhIiwidWlkIjoiNzU2OTJhZDQzM2MwY2E2MzM1OWY2MTJmMGY0YTk3MTkiLCJ1c2VybmFtZSI6InNvdWxpbSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNzg5MTkwMiwiaGFzaCI6IjUxMjEyZGQ1YzQ5ZjM3MzU1MzExZDAwYWU5OTQ5ZjM3ZDFlOGFlMDE4OTU2MmJkY2Q2ZTk4YjQyOWEzNDBjYzk5OGE1MzUyMDQxY2RhYjg5ZTI3MWRhNzY4ZTAwMzMzMTY4ODc5NGU2MmVkMzMxMmZiOGY0YzdlNDU3ZjE1NTM5IiwiaGFzaF9tZXRhIjoiYWJkZWUxZWRhYWUxMDlhZjVkNzExMjM1OTViMTU0NjQ2YWIzYmIwOWQwOWZkMDM1M2ZiMzUzYWI2YWYzMjYyNSIsInNlcW5vIjoxNTcxODMxfSwic2VydmljZSI6eyJob3N0bmFtZSI6InN1bC5pbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDc4OTE5MjMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMTAxNzZmMTM3YjAzNzUyMmNmYmNiZmU0NTgyNzViMzU3ODE1NDgzZGU0ZDQ5Mzk4MDRkNzFjMTNlNjk3ZWRhOSIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKdjYaLIO5rJ0k43s3AD/c+nVMmrDLLKNmWA0Ce9ARMWsoVBLDTVYNExdlfTPhRYPpoKOxRS9vRr/vQKhQovbAqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCGSDnGtio1TrGYJc5TTkh1pmLHMgBvfra4oveB6lbGH6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/soulim
+
+==================================================================
